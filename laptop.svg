@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="40"
+   height="40"
+   viewBox="0 0 10.583333 10.583334"
+   version="1.1"
+   id="svg8">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1" />
+  <path
+     class="cls-2"
+     d="M 10.345376,7.5741769 V 8.191538 A 0.6853968,0.6853968 0 0 1 9.6121011,8.8088995 H 0.9992842 A 0.6853968,0.6853968 0 0 1 0.26601048,8.191538 V 7.5741769 Z"
+     id="path1112"
+     style="fill:#ffffff;stroke:#0c322c;stroke-width:0.503969px;stroke-miterlimit:10;fill-opacity:1" />
+  <rect
+     class="cls-2"
+     x="1.273947"
+     y="1.6071929"
+     width="8.0634918"
+     height="5.9644642"
+     id="rect1116"
+     style="fill:#ffffff;stroke:#0c322c;stroke-width:0.503969px;stroke-miterlimit:10;fill-opacity:1" />
+  <rect
+     class="cls-2"
+     x="2.0324187"
+     y="2.3581052"
+     width="6.5717459"
+     height="4.4651585"
+     id="rect1118"
+     style="fill:#ffffff;stroke:#0c322c;stroke-width:0.503969px;stroke-miterlimit:10;fill-opacity:1" />
+  <line
+     class="cls-3"
+     x1="3.28982"
+     y1="5.78509"
+     x2="3.28982"
+     y2="4.777153"
+     id="line1120"
+     style="fill:none;stroke:#0c322c;stroke-width:0.503969px;stroke-miterlimit:10" />
+  <line
+     class="cls-3"
+     x1="4.2977567"
+     y1="5.78509"
+     x2="4.2977567"
+     y2="3.7717361"
+     id="line1122"
+     style="fill:none;stroke:#0c322c;stroke-width:0.503969px;stroke-miterlimit:10" />
+  <line
+     class="cls-3"
+     x1="5.3056931"
+     y1="5.78509"
+     x2="5.3056931"
+     y2="4.2807446"
+     id="line1124"
+     style="fill:none;stroke:#0c322c;stroke-width:0.503969px;stroke-miterlimit:10" />
+  <line
+     class="cls-3"
+     x1="6.3136296"
+     y1="5.78509"
+     x2="6.3136296"
+     y2="3.7717361"
+     id="line1126"
+     style="fill:none;stroke:#0c322c;stroke-width:0.503969px;stroke-miterlimit:10" />
+  <line
+     class="cls-3"
+     x1="7.3215656"
+     y1="5.78509"
+     x2="7.3215656"
+     y2="3.3257246"
+     id="line1128"
+     style="fill:none;stroke:#0c322c;stroke-width:0.503969px;stroke-miterlimit:10" />
+</svg>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="40"
+   height="40"
+   viewBox="0 0 10.583333 10.583333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="cloud.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14.018392"
+     inkscape:cx="23.048558"
+     inkscape:cy="20"
+     inkscape:document-units="px"
+     inkscape:current-layer="Layer_1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1442"
+     inkscape:window-height="986"
+     inkscape:window-x="476"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1837"
+       transform="matrix(0.03469945,0,0,0.03469945,-0.9715851,-0.86827619)">
+      <g
+         id="Layer_1">
+        <path
+           class="st0"
+           d="M 118.25,216.97935 H 36.5 v -54 c 0,-24.85 20.15,-45 45,-45 h 9 V 90.97936 c 0,-24.85 20.15,-45 45,-45 h 99 c 24.85,0 45,20.15 45,45 v 44.99999 0 c 24.85,0 45,20.15 45,45 v 36 h -81.75"
+           id="path1806"
+           sodipodi:nodetypes="ccsscsssscsscc"
+           style="stroke-width:15.25000108;stroke-miterlimit:7;stroke-dasharray:none" />
+        <path
+           style="fill:#0c322c;stroke:#0c322c;stroke-width:15.25000108;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:7;stroke-dasharray:none;stroke-opacity:1"
+           d="m 135.04632,216.95076 24.32915,0.0267"
+           id="path835" />
+      </g>
+      <g
+         id="Outlines" />
+    </g>
+  </g>
+  <style
+     type="text/css"
+     id="style1804">
+	.st0{fill:none;stroke:#0C322C;stroke-width:17;stroke-miterlimit:10;}
+</style>
+</svg>
